@@ -1,0 +1,14 @@
+/config.json
+/config.local.*
+/state/
+/.bridge-tasks/
+/.dsh/
+/.dsh-tui/
+/.test-tmp/
+/node_modules/
+/.env
+/.env.*
+/.credentials.yaml
+/*.local.yaml
+/*.local.yml
+*.log

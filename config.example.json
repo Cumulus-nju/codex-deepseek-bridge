@@ -1,0 +1,9 @@
+{
+  "dshBin": "C:/path/to/node_modules/@deepseek-ai/dsh/lib/bin.js",
+  "dshHome": "C:/path/to/dsh-home",
+  "allowedRoots": ["C:/path/to/your-project"],
+  "stateDir": "C:/path/to/your-clone/state",
+  "adapterMode": "legacy",
+  "windowMode": "hidden",
+  "timeoutSeconds": 600
+}
